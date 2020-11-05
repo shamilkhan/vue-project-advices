@@ -7,9 +7,11 @@
 - Customization theme (palette colors, spacing)
 
 ## Support SSR
-## Need tests(jest, testing-library, playwright)
+## 🤞 Need tests(jest, testing-library, playwright)
+- [testing-library](https://github.com/testing-library/vue-testing-library)
+- [jest](https://jestjs.io/)
+- e2e tests: [playwright](https://github.com/microsoft/playwright)
 ## PWA features are not implemented 
 - offline mode 
 - service worker
 ## Use Appollo-client instead of vuex and axios combination
-
