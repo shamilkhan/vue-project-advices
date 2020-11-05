@@ -11,7 +11,7 @@
 - [nuxt](https://www.npmjs.com/package/nuxt)
 - [@nuxtjs/pwa](https://www.npmjs.com/package/@nuxtjs/pwa)
 
-## 🤞 Need tests(jest, testing-library, playwright)
+## 🤞 Need tests
 - [testing-library](https://github.com/testing-library/vue-testing-library)
 - [jest](https://jestjs.io/)
 - e2e tests: [playwright](https://github.com/microsoft/playwright)
