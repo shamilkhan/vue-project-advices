@@ -6,10 +6,10 @@
 - fast development
 - Customization theme (palette colors, spacing)
 
-## Support SSR 
+## Support SSR
 ## Need tests(jest, testing-library, playwright)
 ## PWA features are not implemented 
--offline mode 
--service worker
+- offline mode 
+- service worker
 ## Use Appollo-client instead of vuex and axios combination
 
