@@ -15,3 +15,4 @@
 - offline mode 
 - service worker
 ## Use Appollo-client instead of vuex and axios combination
+## Typescript
